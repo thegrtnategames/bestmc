@@ -62,11 +62,11 @@ a { color: inherit; }
   padding: 0;
   text-shadow: 0 0 18px rgba(255,255,255,0.18);
 }
-.topmc-w,
-.topmc-o,
-.topmc-r,
-.topmc-l,
-.topmc-d { color: #ffffff; }
+.topmc-k,
+.topmc-i,
+.topmc-n,
+.topmc-g,
+.topmc-s { color: #ffffff; }
 .topmc-m,
 .topmc-c {
   background: linear-gradient(90deg, #7ef9c6 0%, #7fd2dc 25%, #bf87ff 50%, #ffb347 75%, #ff654d 100%);
